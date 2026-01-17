@@ -1,0 +1,22 @@
+# Personal data
+*.private
+personal_logs/
+local_configs/
+
+# API keys and secrets
+.env
+config.local.json
+secrets/
+
+# Large files
+*.mp4
+*.mov
+*.avi
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
